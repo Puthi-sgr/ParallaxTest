@@ -1,0 +1,7 @@
+.hero-frame {
+  background-image: url("../../Assets/Hero_Flower_Frame.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}

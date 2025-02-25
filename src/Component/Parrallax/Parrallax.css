@@ -1,0 +1,17 @@
+.parallax-container {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+  background: url("https://images.unsplash.com/photo-1446824505046-e43605ffb17f")
+    no-repeat center center;
+  background-size: cover;
+}
+
+.parallax-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+}
